@@ -1,0 +1,18 @@
+//
+//  MySchoolPrefix.pch
+//  MySchool
+//
+//  Created by apple on 16/3/30.
+//  Copyright © 2016年 wangxiaofa. All rights reserved.
+//
+
+#ifndef MySchoolPrefix_pch
+#define MySchoolPrefix_pch
+
+#ifdef __OBJC__
+#import <tingyunApp/NBSAppAgent.h>
+//...
+#endif
+
+
+#endif /* MySchoolPrefix_pch */
